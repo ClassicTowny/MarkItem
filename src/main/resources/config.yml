@@ -1,10 +1,10 @@
 enabled: true
 mark:
   texture: INK_SACK:1
-  glow: false
-  name: "&9Mark"
-  lore: "&e&oYou can mark your items and they do not drop when death"
-  text: "&9- Item is marked"
+  glow: true
+  name: "&4Soul&8Binder"
+  lore: "&e&oMaybe try placing in a crafting table..."
+  text: "&9&o- &4&oSoul&8&oBound"
 
 ##
 # Allowed and denied items
